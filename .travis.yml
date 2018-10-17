@@ -9,6 +9,6 @@ deploy:
   provider: heroku
   api_key:
     secure: fVWNPV7b93LKAF9RAsA6lnWHfbziVL56RYzTPg/9HXdYTH4JyexDKak6Rl8nEYFZqMbxuN2TAiZ7/yKPcc5dNXZgczRwHT/H6ad9X3653rcQszZyPncgK828wEOJt8YNCgb9sFvCio/mDNwV/5Y1WMumz6MzEGYRrSNj5pCQvYgNp2qbaMsSieedSJK/fj+uWtXEyO4YRP5KqcLCvwzlfUMMSfGgcVR+XZqlD/YXmpBYXxw4v6piYfGelbBGHAiwPEP0Ddg7i4RP4Z/S04Bgpnm0PPCoDllUAE4qPZJQ9ynYxjA4tdIpelyfnDItcoWT8YTJHS/4ySXcyPBT6iTPs3Bb3+3F3GHQlrzz5cbuznfEK6sTCDIM2vJnKXCdJ+aaJJgp9scTCTPGDuv4DcrZ4w0zLuLdvDdTCOaaNUyFD0TqaJvRFWsatqpig+tdW33h0S2ICfNJspbRG3WFzF9CEks0GrvkzU796/CXYUgfXR/JK1/CVPjVB0bIWmZtO+jt3tuewmH02r2dx6V8qXALWIu+nyH7b7cQbLsfURl0ze3de/u+us/6P/TNF7Qtfrf7n2l8yyYmMZiVX7jxLl9GaelqUgm36t40vCpU0oAl5M6+mizL5gyjPLxOQIlHmHF4loaf+X5YD1JsKDCZeTY+KtIQYxAVbGKmJzpiEV9GbCg=
-  app: react-trello-testing-tks
+  app: trello-test-tks
   on:
     repo: tkshehan/react-trello-testing
